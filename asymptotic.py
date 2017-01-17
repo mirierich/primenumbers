@@ -10,5 +10,5 @@ def primes_method1(n):
     return out
 
 
-print("Test Case 9: ")
-print(primes_method1(909))
+print("Test Case 10: ")
+print(primes_method1(9012))
