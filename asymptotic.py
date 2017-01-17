@@ -11,4 +11,4 @@ def primes_method1(n):
 
 
 print("Test Case 4: ")
-print(primes_method1(99))
+print(primes_method1(55))
