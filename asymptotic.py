@@ -9,4 +9,6 @@ def primes_method1(n):
             out.append(num)
     return out
 
-print(primes_method1(100))
+
+print("Test Case 1: ")
+print(primes_method1(10))
